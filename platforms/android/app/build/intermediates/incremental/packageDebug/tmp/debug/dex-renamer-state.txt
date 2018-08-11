@@ -1,0 +1,4 @@
+#Fri Aug 10 15:43:19 PET 2018
+base.0=/home/concytec/WebstormProjects/nativescript/angular/QuestionInkarri/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

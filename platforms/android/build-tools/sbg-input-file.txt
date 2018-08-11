@@ -1,0 +1,1 @@
+/home/concytec/WebstormProjects/nativescript/angular/QuestionInkarri/platforms/android/app/src/main/assets/app
