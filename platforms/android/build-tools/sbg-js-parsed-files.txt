@@ -231,9 +231,11 @@
 /home/concytec/WebstormProjects/nativescript/angular/QuestionInkarri/platforms/android/app/src/main/assets/app/app.module.js
 /home/concytec/WebstormProjects/nativescript/angular/QuestionInkarri/platforms/android/app/src/main/assets/app/app.routing.js
 /home/concytec/WebstormProjects/nativescript/angular/QuestionInkarri/platforms/android/app/src/main/assets/app/main.js
+/home/concytec/WebstormProjects/nativescript/angular/QuestionInkarri/platforms/android/app/src/main/assets/app/userauth/userauth.component.js
 /home/concytec/WebstormProjects/nativescript/angular/QuestionInkarri/platforms/android/app/src/main/assets/app/main.aot.js
 /home/concytec/WebstormProjects/nativescript/angular/QuestionInkarri/platforms/android/app/src/main/assets/app/shared/config.js
+/home/concytec/WebstormProjects/nativescript/angular/QuestionInkarri/platforms/android/app/src/main/assets/app/shared/couchbase.service.js
+/home/concytec/WebstormProjects/nativescript/angular/QuestionInkarri/platforms/android/app/src/main/assets/app/shared/database.service.js
 /home/concytec/WebstormProjects/nativescript/angular/QuestionInkarri/platforms/android/app/src/main/assets/app/shared/user/user.model.js
-/home/concytec/WebstormProjects/nativescript/angular/QuestionInkarri/platforms/android/app/src/main/assets/app/shared/user/user.service.js
 /home/concytec/WebstormProjects/nativescript/angular/QuestionInkarri/platforms/android/app/src/main/assets/app/login/login.component.js
 /home/concytec/WebstormProjects/nativescript/angular/QuestionInkarri/platforms/android/app/src/main/assets/app/app.component.js

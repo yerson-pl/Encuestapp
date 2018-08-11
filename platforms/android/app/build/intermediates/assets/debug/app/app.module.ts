@@ -3,6 +3,8 @@ import { NativeScriptModule } from "nativescript-angular/nativescript.module";
 import { AppRoutingModule } from "./app.routing";
 import { AppComponent } from "./app.component";
 import {LoginComponent} from "./login/login.component";
+import {DatabaseService} from "~/shared/couchbase.service";
+import {CouchbaseService} from "~/shared/database.service";
 
 
 // Uncomment and add to NgModule imports if you need to use two-way binding
@@ -24,7 +26,8 @@ import {LoginComponent} from "./login/login.component";
         LoginComponent
     ],
     providers: [
-
+        DatabaseService,
+        CouchbaseService
     ],
     schemas: [
         NO_ERRORS_SCHEMA
