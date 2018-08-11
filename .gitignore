@@ -1,12 +1,8 @@
 node_modules/
 hooks/
 
-demo/node_modules/
-demo/platforms/
-demo/lib
-
-ng-demo/platforms
-ng-demo/lib
+platforms/
+lib/
 
 npm_debug.log
 
